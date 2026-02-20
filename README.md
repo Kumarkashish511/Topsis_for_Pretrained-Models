@@ -124,6 +124,13 @@ A bar chart (`topsis_ranking_graph.png`) visualizes the final scores for easy co
 
 ---
 
+## 📊 Ranking Graph
+
+<img width="990" height="570" alt="image" src="https://github.com/user-attachments/assets/85e7065c-b749-47cf-a7c4-7a7f28afd1a4" />
+<img width="990" height="570" alt="image" src="https://github.com/user-attachments/assets/85e7065c-b749-47cf-a7c4-7a7f28afd1a4" />
+
+
+
 ## 🔍 Why TOPSIS?
 
 TOPSIS is widely used in decision science for model selection, vendor evaluation, and benchmarking because it:
