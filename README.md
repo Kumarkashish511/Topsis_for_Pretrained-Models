@@ -57,15 +57,6 @@ Step 7 → Compute TOPSIS Score          C_i = S_i⁻ / (S_i⁺ + S_i⁻)
 
 A model with **C_i → 1** is closest to the ideal best; **C_i → 0** means closest to the worst.
 
-### Key Formulas
-
-**Normalization:**
-
-$$r_{ij} = \frac{x_{ij}}{\sqrt{\sum_{i=1}^{m} x_{ij}^2}}$$
-
-**TOPSIS Score:**
-
-$$C_i = \frac{S_i^-}{S_i^+ + S_i^-}$$
 
 ---
 
